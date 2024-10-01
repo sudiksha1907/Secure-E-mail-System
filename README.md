@@ -1,1 +1,1 @@
-# Secure-E-mail-System
+This Python-based secure email system provides end-to-end encryption for messages and attachments. It features user authentication, XOR and Fernet encryption, and support for read receipts. Users can send encrypted emails with attachments, read and decrypt received emails, and manage encrypted files. The system uses Gmail's SMTP and IMAP servers for email functionality. It offers a command-line interface for user interaction, making it easy to use while maintaining strong security measures.
